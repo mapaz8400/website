@@ -1,9 +1,10 @@
 p {
   font-family: arial;
   color: grey;
+  text-align: center;
 }
 
-.title {
+.introduction {
   font-family: arial;
   color: black;
 }
@@ -21,4 +22,13 @@ h1 {
 
 h2{
   text-align: center;
+}
+  
+#ListEducation {
+  text-align: left;
+}
+  
+.image {
+  width: 150px;
+  height: 150px;
 }
