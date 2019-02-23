@@ -1,34 +1,35 @@
 p {
-  font-family: arial;
-  color: grey;
-  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  color: black;
+  align-self: center;
 }
 
-.introduction {
-  font-family: arial;
+title {
+  font-family: 'Raleway', sans-serif;
   color: black;
+  align-self: center;
 }
 
 body {
-  background: lightpink;
-  font-family: arial;
-  color: grey;
+  background: #F19CBB;
+  font-family: 'Raleway', sans-serif;
+  color: black;
+  align-self: center;
 }
 
 h1 {
-  text-align: center;
- 
+  align-self: center;
 {
 
 h2{
-  text-align: center;
+  align-self: center;
 }
   
 #ListEducation {
-  text-align: left;
+  align-self: center;
 }
   
 .image {
-  width: 150px;
-  height: 150px;
+  width: 100px;
+  height: 100px;
 }
