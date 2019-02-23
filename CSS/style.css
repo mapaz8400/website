@@ -2,38 +2,53 @@ p {
 	font-family: 'Raleway', sans-serif;
 	color: black;
 	align-self: center;
+	margin: 40px auto;
+	padding: 20px 30px 40px 30px;
+	overflow: auto;
+	width: 75%;
+	border-radius: 4px;
 }
 title {
 	font-family: 'Raleway', sans-serif;
 	color: black;
 	align-self: center;
+	margin: 40px auto;
+	padding: 20px 30px 40px 30px;
+	overflow: auto;
+	width: 75%;
+	border-radius: 4px;
 }
 body {
 	background: #F19CBB;
 	font-family: 'Raleway', sans-serif;
 	color: black;
 	align-self: center;
+	margin: 40px auto;
+	padding: 20px 30px 40px 30px;
+	overflow: auto;
+	width: 75%;
+	border-radius: 4px;
 }
 h1 {
-	align-self: center;
-	{
-		h2{
-			align-self: center;
-		}
-		#ListEducation {
-			align-self: center;
-		}
-		.image {
-			width: 100px;
-			height: 100px;
-		}
-		#borderDemo {
-			border: 5px dotted #FFFFFF;
-		}
-		#demo {
-			background: #F5BECC none no-repeat scroll 0 0;
-		}
-		#demo {
-			padding: 50px 20px;
-		}
+  align-self: center;
+}
+h2{
+  align-self: center;
+}
+#ListEducation {
+  align-self: center;
+}
+.image {
+  width: 100px;
+  height: 100px;
+}
+#borderDemo {
+  border: 5px dotted #FFFFFF;
+}
+#demo {
+  background: #F5BECC none no-repeat scroll 0 0;
+}
+#demo {
+  padding: 50px 20px;
+}
 		
