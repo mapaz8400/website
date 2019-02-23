@@ -33,3 +33,15 @@ h2{
   width: 100px;
   height: 100px;
 }
+
+#borderDemo {
+  border: 5px dotted #FFFFFF;
+}
+  
+  #demo {
+background: #F5BECC none no-repeat scroll 0 0;
+}
+  
+#demo {
+ padding: 50px 20px; 
+}
