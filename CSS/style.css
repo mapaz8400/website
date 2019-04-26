@@ -45,6 +45,27 @@ h2{
 	width: 75%;
 	border-radius: 4px;
 }
+h3{
+ align-self: center;
+	margin: 10px auto;
+	padding: 0px 0px 0px 0px;
+	overflow: auto;
+	width: 75%;
+	border-radius: 4px;
+}
+li{
+background: #F19CBB;
+	color: black;
+	align-self: center;
+	margin: 40px auto;
+	padding: 20px 30px 40px 30px;
+	overflow: auto;
+	width: 75%;
+	border-radius: 4px;
+	font-family: Palatino,Palatino Linotype,Palatino LT STD,Book Antiqua,Georgia,serif; 
+}
+
+
 #ListEducation {
   align-self: center;
 }
